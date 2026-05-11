@@ -8,7 +8,7 @@ This repository contains the official implementation for the paper: **"AMSW: Ada
 
 ## Overview
 
-![AMSW](.\AMSW.png)
+![AMSW](https://github.com/Quehenghua/AMSW/blob/main/AMSW.png)
 
 ## File
 
